@@ -1,0 +1,2 @@
+# Runtime dependencies for the AgentCore example container.
+infolang-agentcore>=0.1,<0.2
